@@ -11,7 +11,8 @@ export const App = () => {
       <div>
         <img src="/assets/coffee_and_thee_logo_2.png" className="logo" alt="Coffee & Tee logo" />
         <h1 className="mainTitle">{welcomeGreeting}</h1>
-        <DrinkButtons />
+        <DrinkButtons drinkOne={'Coffee'} drinkTwo={'Thee'} />
+        {/* <DrinkButtons /> */}
       </div>
     </>
   );

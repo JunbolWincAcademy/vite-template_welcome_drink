@@ -25,16 +25,15 @@
 
 .btn_thee {
   background-color: rgb(60, 105, 34);
+  color: white;
   margin: 2em;
 }
 
 .btn_coffee {
   background-color: rgb(77, 53, 14);
-}
-
-.btn_color {
   color: white;
 }
+
 
 @keyframes logo-spin {
   from {
