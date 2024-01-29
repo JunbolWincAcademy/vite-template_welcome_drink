@@ -1,6 +1,6 @@
 export const DrinkButtons = (props) => {
   // before it was no parameter
-  const Choose = 'Hello!, would like coffee or thee?';
+  const Choose = 'Hello!, would you like coffee or thee?';
   const tea = 'Tea';
   const coffee = 'Coffee';
 
